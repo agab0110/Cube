@@ -1,7 +1,5 @@
 package com.videogame.gui;
 
-import javax.swing.*;
-
 import com.videogame.app.Player;
 
 import java.awt.event.ActionListener;

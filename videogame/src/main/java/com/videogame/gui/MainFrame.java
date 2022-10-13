@@ -27,7 +27,7 @@ public class MainFrame extends JFrame{
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         panel = new JPanel();
-        image = new ImageIcon("C:\\Users\\39347\\Desktop\\java_programs\\Cube\\videogame\\cube.png");
+        image = new ImageIcon("videogame/src/main/java/com/videogame/gui/image/cube.png");
         label = new JLabel();
         label.setIcon(image);
         label.setOpaque(true);
